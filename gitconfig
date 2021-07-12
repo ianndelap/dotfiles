@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = iann@delapeyriere.ch
+	name = Iann de Lapeyriere
